@@ -63,5 +63,3 @@ ggplot(data = volume_data, aes(x=Date, y=Volume)) +
   ) +
   theme_classic()
 
-
-
